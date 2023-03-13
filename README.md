@@ -1,5 +1,7 @@
 # vue-exam
 
+Live URL: https://ibom-github-repos-vue.netlify.app/
+
 ## Project setup
 ```
 npm install
