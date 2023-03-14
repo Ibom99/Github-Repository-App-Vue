@@ -1,6 +1,6 @@
 # vue-exam
 
-Live URL: https://ibom-github-repos-vue.netlify.app/
+Live URL: https://github-repo-app-vue.web.app/
 
 ## Project setup
 ```
